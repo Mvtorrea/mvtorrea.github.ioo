@@ -1,0 +1,32 @@
+body{
+    font-family: 'Times New Roman', Times, serif; 
+    margin: 0%; 
+    background-color:#f7e1e8 ;
+  }
+ 
+  h1{
+    color:#FFAFFC;;
+    text-align: center;
+    padding: 20px;
+    font-size: 48px;
+    margin-bottom: 12px;
+  }
+  Mario Kart div{
+    float: right;
+
+  }
+  .img mario kart{
+    padding-left: 500px;
+    float: right;
+    height: 500px;;
+  }
+  h2{
+padding-left: 30px;
+  }
+  p{
+    color: #FFAFFC;
+  }
+  .p mario kart{
+    text-align: left;
+   
+  }

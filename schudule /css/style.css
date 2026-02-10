@@ -1,0 +1,13 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: pink;
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+body{
+    background-image: url("../images/00b2b15dac4d0376c1495ffe71c5120a.jpg")
+}

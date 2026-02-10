@@ -1,0 +1,33 @@
+/* General Page Styling */
+body{
+   margin: 0%;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   background-color: #f7f4e9;
+}
+header{
+    background-color: #2d2b33;
+    color: gold;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 1.6rem;
+}
+#section {
+    width: 700px;
+    height: 600px;
+}
+hr {
+    margin:0px 250px;
+}
+ol {
+    width: 50%;
+    margin: auto;
+    background-color: aliceblue;
+    text-align: left;
+}
+a {
+    background-color: blanchedalmond;
+    padding: 0px 150px;
+}
+a:hover {
+    background-color: rgb(234, 234, 147);
+}

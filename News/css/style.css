@@ -1,0 +1,84 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+ a{
+    font-size: 1.5em;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+}
+nav *{
+    float: left;
+
+}
+
+
+.trending img {
+    width: 50px;
+}
+hr{
+    clear: both;
+}
+.button{ 
+    border: none;
+    border-radius: 10px;
+    width: 170px;
+    font-size: 2m;
+    float: right;
+}
+.red{
+    background-color: red;
+    color: #fff;
+}
+ .white{
+    background-color: white;
+    color: black;
+ }
+   
+
+.trending{
+    padding: 10px 15px;
+    border-bottom: 1px solid #ddd;
+    font-size: 25px;
+}
+.left-column, .right-column{
+    width: 30%;
+    float: left;
+}
+.left-column img, .left-column p{
+    padding-left: 10%;
+}
+    
+    .middle-column{
+        width: 40%;
+        float: left;
+    }
+    .middle-column h1{
+        font-size: 60px;
+    }
+    .middle-column img{
+        width: 80%;
+    }
+    .middle-column p, .left-column p, .right-column p{
+    font-size: 35px;
+    }
+    .right-column strong{
+        font-size: 20px;
+    }
+
+ .right-column img {
+    width: 50%;
+    border-radius: 4px;
+}
+.center-column h1{
+    font-size: 36px;
+    line-height: 1.1;
+}
+.right-column p, hr{
+   padding-right: 10%;
+}
+.right-column img{
+width: 85%;
+}

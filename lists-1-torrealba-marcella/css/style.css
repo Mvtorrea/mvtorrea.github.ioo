@@ -1,0 +1,32 @@
+body{
+    width: 1366px;
+    height: 768px;
+    background-color: #FFF4B8;
+    text-align: center;
+ }
+div{
+    background-color: beige;
+    margin: auto;
+    border: solid;
+    margin-bottom: 50px;
+}
+#section {
+    width: 700px;
+    height: 600px;
+}
+hr {
+    margin:0px 250px;
+}
+ol {
+    width: 50%;
+    margin: auto;
+    background-color: aliceblue;
+    text-align: left;
+}
+a {
+    background-color: blanchedalmond;
+    padding: 0px 150px;
+}
+a:hover {
+    background-color: rgb(234, 234, 147);
+}
